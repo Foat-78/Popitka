@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\bin\Debug\net6.0\Popitka09.exe
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\bin\Debug\net6.0\Popitka09.deps.json
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\bin\Debug\net6.0\Popitka09.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\bin\Debug\net6.0\Popitka09.dll
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\bin\Debug\net6.0\Popitka09.pdb
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.dll
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\refint\Popitka09.dll
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.pdb
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\Popitka09.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka09\obj\Debug\net6.0\ref\Popitka09.dll
