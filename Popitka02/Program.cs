@@ -1,7 +1,5 @@
 ﻿//Сортировка пузырьком
 
-
-
 public static class Sorting
 {
   /// <summary>
