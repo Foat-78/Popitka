@@ -1,4 +1,4 @@
-﻿//Факториал
+﻿// Факториал
 
 
 int FactorialFor(int n)
