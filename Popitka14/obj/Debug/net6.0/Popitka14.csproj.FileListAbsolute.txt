@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\bin\Debug\net6.0\Popitka14.exe
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\bin\Debug\net6.0\Popitka14.deps.json
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\bin\Debug\net6.0\Popitka14.runtimeconfig.json
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\bin\Debug\net6.0\Popitka14.dll
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\bin\Debug\net6.0\Popitka14.pdb
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.dll
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\refint\Popitka14.dll
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.pdb
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\Popitka14.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\PopitkaNePitka\Popitka14\obj\Debug\net6.0\ref\Popitka14.dll
